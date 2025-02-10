@@ -72,8 +72,32 @@ _July 2019 - August 2020_
 ### Freelancer Software Developer | Freelancer
 _April 2018 - June 2019_
 
-## 💼 Experience
+## 🎓 Experience
 
 ### Kyiv Polytechnic Institute (KPI)
 #### Bachelor's degree, Computer science
 _2015 - 2019_
+
+## 💡 Key Skills
+
+- **3D Web Development**: Expert in using WebGL, Three.js, and Spline to craft interactive and immersive 3D experiences.
+- **No-Code Solutions**: Skilled in rapid development and deployment with platforms like Bubble.io, Spline, Framer, and Squarespace.
+- **Full-Stack Development**: Proficient in backend technologies (Node.js, Django, Python) and frontend frameworks (React, Vue, Next, Nuxt).
+- **Automation & Optimization**: Streamlining system performance and enhancing user engagement through efficient automation techniques.
+
+## 🔧 Technologies I Work With
+
+- **Backend**: Node.js, Express, Django, Python, FastAPI, Firebase, MongoDB, PostgreSQL
+- **Frontend**: React, Next, Three.js, Vue, Nuxt, WebGL, Spline, Framer, HTML5, CSS3, JavaScript, TypeScript
+- **No-Code/Low-Code**: Bubble.io, Webflow, Squarespace, Hubspot
+- **Cloud & DevOps**: AWS, S3, SES, Twilio, Stripe, Docker, Heroku, Firebase
+- **Automation**: RabbitMQ, Celery, Jenkins, GitHub Actions
+
+## 🌍 Notable Projects
+
+Here are some of the standout projects I've delivered:
+
+- **3D Web Applications**: Developed immersive virtual environments using WebGL and Three.js for a rich user experience.
+- **E-Commerce & CRM Systems**: Integrated CRM solutions like HubSpot and built scalable e-commerce platforms with full-stack capabilities.
+- **Custom Automation Solutions**: Created automated systems for data processing, integration, and notifications using RabbitMQ and Celery.
+
