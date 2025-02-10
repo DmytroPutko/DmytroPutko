@@ -22,7 +22,7 @@ const DmytroPutko = {
         noCode: ["Spline", "HubSpot", "Stripe", "Bubble.io", "Make.com", "Mailchimp",
                   "Zapier", "Airtable", "Framer", "Webflow", "Squarespace"],
         frontEnd: ["React", "Next.js", "Vue", "Nuxt"],
-        backEnd: ["Node.js", "Express", "NestJS", "Python"],
+        backEnd: ["Node.js", "Express", "NestJS", "Python", "Django"],
         devOps: ["Docker🐳", "CI/CD", "GitHub", "Jira"],
         cloudServices: ["AWS", "Heroku", "EC2", "S3", "Lambda"],
         databases: ["Firebase", "PostgreSQL", "MongoDB", "SQLite", "Redis"],
@@ -38,3 +38,42 @@ const DmytroPutko = {
               single line of code – all in a day's work!"
 };
 ```
+
+## 💼 Experience
+
+### 3D Software Engineer | Grid Dynamics
+
+_November 2022 - November 2024_
+
+- Led the development of complex 3D web applications, leveraging React, Next.js, and WebGL technologies.
+- Built scalable full-stack solutions with Node.js and MongoDB to support 3D rendering and real-time user interactions.
+- Delivered cutting-edge visualization tools for clients in automotive and gaming industries, increasing engagement by 30%.
+- Championed performance optimizations, achieving faster load times and smoother animations across devices.
+- Mentored junior developers and provided technical guidance on WebGL and full-stack development best practices.
+
+### 3D Software Developer | AdvantISS
+
+_September 2020 - October 2022_
+
+- Designed and deployed advanced 3D applications using WebGL, Three.js, and modern frameworks like React and Vue.
+- Created dynamic visualizations and immersive user interfaces for engineering and architecture projects.
+- Integrated backend APIs using Node.js, ensuring real-time data updates for interactive dashboards.
+- Enhanced GPU rendering efficiency by developing custom shaders for large-scale 3D datasets.
+
+### 3D Visualization Developer | KR. Laboratories
+
+_July 2019 - August 2020_
+
+- Developed high-quality 3D visualization solutions for industrial applications using Three.js and WebGL.
+- Designed and implemented interactive 3D environments for real-time simulation and analysis.
+- Collaborated with designers and engineers to optimize performance and ensure a seamless user experience.
+- Contributed to the development of a scalable rendering system, reducing resource usage by 25%.
+
+### Freelancer Software Developer | Freelancer
+_April 2018 - June 2019_
+
+## 💼 Experience
+
+### Kyiv Polytechnic Institute (KPI)
+#### Bachelor's degree, Computer science
+_2015 - 2019_
